@@ -9,7 +9,7 @@ DESCRIPTION="MessagePack is an efficient binary serialization format, which lets
 HOMEPAGE="https://github.com/msgpack/msgpack-c"
 SRC_URI="https://github.com/msgpack/${NAME}/releases/download/cpp-${VERSION}/msgpack-cxx-${VERSION}.tar.gz"
 
-SRC_DIR="msgpack-${VERSION}"
+SRC_DIR="msgpack-cxx-${VERSION}"
 
 PKG_NAMES="libmsgpackc2 libmsgpackc-devel"
 
