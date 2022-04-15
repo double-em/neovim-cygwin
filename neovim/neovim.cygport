@@ -1,7 +1,7 @@
 inherit cmake
 
 NAME="neovim"
-VERSION="0.4.2"
+VERSION="0.6.1"
 RELEASE=1
 CATEGORY="Editors"
 SUMMARY="Vim-fork focused on extensibility and usability"
